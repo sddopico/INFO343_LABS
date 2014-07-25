@@ -1,179 +1,123 @@
 div.frame {
 	width: 43px;
 	height: 52px;
+	background-image: url('sprite_animation.png');
+	margin: auto;
 }
 
 div.frame1 {
-	margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: 0px 0px;
 }
 
 div.frame2 {
-	margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -43px 0px;
 }
 
 div.frame3 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -86px 0px;
 }
 
 div.frame4 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -129px 0px;
 }
 
 div.frame5 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -172px 0px;
 }
 
 div.frame6 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -215px 0px;
 }
 
 div.frame7 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: 0px -52px;
 }
 
 div.frame9 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -43px -52px;
 }
 
 div.frame10 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -86px -52px;
 }
 
 div.frame11 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -129px -52px;
 }
 
 div.frame12 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -172px -52px;
 }
 
 div.frame13 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -215px -52px;
 }
 
 div.frame14 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: 0px -104px;
 }
 
 div.frame15 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -43px -104px;
 }
 
 div.frame16 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -86px -104px;
 }
 
 div.frame17 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -129px -104px;
 }
 
 div.frame18 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -172px -104px;
 }
 
 div.frame19 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -215px -104px;
 }
 
 div.frame20 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: 0px -156px;
 }
 
 div.frame21 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -43px -156px;
 }
 
 div.frame22 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -86px -156px;
 }
 
 div.frame23 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -129px -156px;
 }
 
 div.frame24 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -172px -156px;
 }
 
 div.frame25 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -215px -156px;
 }
 
 div.frame26 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: 0px -208px;
 }
 
 div.frame27 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -43px -208px;
 }
 
 div.frame28 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -86px -208px;
 }
 
 div.frame29 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -129px -208px;
 }
 
 div.frame30 {
-margin: auto;
-	background-image: url('sprite_animation.png');
 	background-position: -172px -208px;
 }
 
